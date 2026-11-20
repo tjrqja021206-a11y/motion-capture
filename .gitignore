@@ -1,0 +1,5 @@
+# 영상은 올리지 않음
+*.mp4
+*.mov
+*Zone.Identifier
+__pycache__/
